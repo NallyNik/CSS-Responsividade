@@ -116,4 +116,7 @@ footer #extra img {
     h2 {
         font-size: 40px;
     }
+    header .text {
+        padding: 5% 0 2%;
+    }
 }
